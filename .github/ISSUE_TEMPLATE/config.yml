@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Trident Support Server
+    url: https://tridentbot.xyz/support
+    about: Ask our staff members questions here.
+  - name: Vulnerability Report
+    url: mailto:security@tridentbot.xyz
+    about: Please report security vulnerabilities here.
