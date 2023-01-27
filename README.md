@@ -68,7 +68,7 @@ When reporting a bug on this repository, you are expected to review the list bel
 [![label: medium][~medium]](https://github.com/tridentdiscord/bugs/labels/Medium%20Priority) - minor issue with one of our services, does not need to be urgently fixed<br/>
 [![label: low][~low]](https://github.com/tridentdiscord/bugs/labels/Low%20Priority) - trivial issue - visual or unaffecting, will be fixed once other issues are fixed<br/>
 
-[~critical]: https://img.shields.io/badge/-Critial%20Priority-BB0818.svg
+[~critical]: https://img.shields.io/badge/-Critical%20Priority-BB0818.svg
 [~high]: https://img.shields.io/badge/-High%20Priority-D93F0B.svg
 [~medium]: https://img.shields.io/badge/-Medium%20Priority-FBCA04.svg
 [~low]: https://img.shields.io/badge/-Low%20Priority-FEF2C0.svg
