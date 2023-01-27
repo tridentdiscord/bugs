@@ -70,8 +70,8 @@ When reporting a bug on this repository, you are expected to review the list bel
 
 [~critical]: https://img.shields.io/badge/-Critial%20Priority-BB0818.svg
 [~high]: https://img.shields.io/badge/-High%20Priority-5A2F17.svg
-[~medium]: https://img.shields.io/badge/-Medium%20Priority-977A58.svg
-[~low]: https://img.shields.io/badge/-Low%20Priority-C3F1B5.svg
+[~medium]: https://img.shields.io/badge/-Medium%20Priority-FBCA04.svg
+[~low]: https://img.shields.io/badge/-Low%20Priority-FEF2C0.svg
 [~ui]: https://img.shields.io/badge/-Under%20Investigation-BFD4F2.svg
 
 [~duplicate]: https://img.shields.io/badge/-Duplicate-BFD4F2.svg
