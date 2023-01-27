@@ -20,24 +20,24 @@ When reporting a bug on this repository, you are expected to review the list bel
 
 <table align="center" width="100%">
   <tr align="center">
-    <th width="400px">Level of vulnerability</th>
-    <th width="400px">Amount</th>
+    <th width="400px">Bugs Reported</th>
+    <th width="400px">Reward</th>
   </tr>
   <tr align="center">
-    <td>Critical</td>
-    <td>reward</td>
+    <td>10</td>
+    <td>Bug Terminator Role + Badge on /whois</td>
   </tr>
   <tr align="center">
-    <td>High</td>
-    <td>reward</td>
+    <td>5</td>
+    <td>Bug Tracker Role</td>
   </tr>
   <tr align="center">
-    <td>Medium</td>
-    <td>reward</td>
+    <td>3</td>
+    <td>Bug Squasher Role</td>
   </tr>
   <tr align="center">
-    <td>Low</td>
-    <td>reward</td>
+    <td>1</td>
+    <td>Bug Hunter Role</td>
   </tr>
 </table>
 
