@@ -80,7 +80,7 @@ When reporting a bug on this repository, you are expected to review the list bel
 
 <h2 align="left">Security Vulnerabilities</h2>
 
-All security vulnerability reports must include detailed information on the vulnerability itself, how to reproduce it and evidence of the vulnerability. These will be looked over by the Core Team within 36 hours of the initial report, attaching your Discord Username is recommended, in case we need to reach out to you for further information and to reward you for the report.
+All security vulnerability reports must include detailed information on the vulnerability itself, how to reproduce it and evidence of the vulnerability. These will be looked over by the Core Team within 24 hours of the initial report, attaching your Discord Username is recommended, in case we need to reach out to you for further information and to reward you for the report.
 
 Please send vulnerability reports to [security@tridentbot.xyz](mailto:security@tridentbot.xyz)
 
