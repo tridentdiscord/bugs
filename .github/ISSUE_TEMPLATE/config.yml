@@ -5,4 +5,4 @@ contact_links:
     about: Ask our staff members questions here.
   - name: Vulnerability Report
     url: mailto:security@tridentbot.xyz
-    about: Please report security vulnerabilities here.
+    about: Report security vulnerabilities here.
