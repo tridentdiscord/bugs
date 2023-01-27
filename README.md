@@ -10,7 +10,7 @@ When reporting a bug on this repository, you are expected to review the list bel
 
 1. Firstly, you must always check if your issue is already existing, we do not want 10 of the same issue. If your issue is already preexisting, do not create another one.
 2. If your issue does not exist, create an issue. To create an issue, follow these steps:
-   1. Go to [this link](https://github.com/tridentbot/bugs/issues) and press "New Issue".
+   1. Go to [this link](https://github.com/tridentdiscord/bugs/issues) and press "New Issue".
    2. Choose whether it is a bot or website report and create a short title.
    3. Then fill out the format, make sure you include as much detail as possible.
    4. Click the "Labels" option and assign the appropriate (see below) labels to your post.
