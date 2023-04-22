@@ -3,7 +3,7 @@ name: Website Bug Report
 about: Report a bug related to the website
 title: ''
 labels: ''
-assignees: 'whoissound, Flqsh'
+assignees: 'whoissound, Flqsh, LostBreezely'
 
 ---
 
