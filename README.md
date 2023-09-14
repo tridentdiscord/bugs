@@ -24,14 +24,6 @@ When reporting a bug on this repository, you are expected to review the list bel
     <th width="400px">Reward</th>
   </tr>
   <tr align="center">
-    <td>9</td>
-    <td>Bug Terminator Role + Badge on /whois</td>
-  </tr>
-  <tr align="center">
-    <td>6</td>
-    <td>Bug Squasher Role</td>
-  </tr>
-  <tr align="center">
     <td>3</td>
     <td>Bug Hunter Role</td>
   </tr>
